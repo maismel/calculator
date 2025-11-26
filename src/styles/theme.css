@@ -1,0 +1,11 @@
+:root {
+  --bg-color: #222;
+  --text-color: #f0f0f0;
+  --accent-color: rgba(255,255,255,0.25);
+}
+
+[data-theme="light"] {
+  --bg-color: #f0f0f0;
+  --text-color: #222;
+  --accent-color: grey;
+}
