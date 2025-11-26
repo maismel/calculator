@@ -31,3 +31,6 @@ package.json – project info, dependencies, and scripts.
 .gitignore – files/folders excluded from Git (e.g., node_modules/, dist/).
 
 README.md – project documentation.
+
+## 4. Link to the app
+https://maismel.github.io/calculator/
